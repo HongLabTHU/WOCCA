@@ -42,3 +42,6 @@ matplotlib
 - `nb4_explore_microstate.ipynb`: Microstate analysis of Dataset 1
 - `nb5_explore_ds3_sedation.ipynb`: Exploration of Dataset 3 (Sedation)
 - `nb6_intro_and_toy_data.ipynb`: Introductory diagrams and synthetic data analysis
+
+### Supplementary information
+- `supplementary_information.pdf`: Supplementary details of mathematics, statistics and data analysis
