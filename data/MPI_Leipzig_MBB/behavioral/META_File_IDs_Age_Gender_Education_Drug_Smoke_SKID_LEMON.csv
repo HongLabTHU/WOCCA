@@ -1,0 +1,228 @@
+ID,Gender_ 1=female_2=male,Age,Handedness,Education,DRUG,DRUG_0=negative_1=Positive,Unnamed: 7,Smoking,"Smoking_num_(Non-smoker=1, Occasional Smoker=2, Smoker=3)",SKID_Diagnoses,SKID_Diagnoses 1,SKID_Diagnoses 2,Comments_SKID_assessment,Hamilton_Scale,BSL23_sumscore,BSL23_behavior,AUDIT,Standard_Alcoholunits_Last_28days,Alcohol_Dependence_In_1st-3rd_Degree_relative,Relationship_Status
+sub-010017,2,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,,,12.0,47,No,No
+sub-010015,2,20-25,right,Gymnasium,negative,0.0,,occasional smoker,2.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,,,12.0,45,Yes,Yes
+sub-010100,2,25-30,right,Gymnasium,negative,0.0,,occasional smoker,2.0,,,,,2.0,,,0.0,12,unknown,Yes
+sub-010003,1,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,3.0,,,1.0,0,No,No
+sub-010022,2,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,2.0,,,7.0,22,No,No
+sub-010021,1,25-30,right,Gymnasium,positive (THC),1.0,THC,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,5.0,,,9.0,33,No,No
+sub-010023,1,25-30,right,Gymnasium,negative,0.0,,non-smoker,1.0,current Anorexia Nervosa,#CODE:V307.1 #DESC: Anorexia Nervosa SPEC: current,,,0.0,,,12.0,35,No,Yes
+sub-010104,1,60-65,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,7.0,,,5.0,35,No,Yes
+sub-010010,2,25-30,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,,,15.0,43,Yes,Yes
+sub-010016,1,25-30,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,4.0,,,0.0,5,No,Yes
+sub-010019,1,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,4.0,,,7.0,27,No,No
+sub-010024,2,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,,,10.0,8,No,No
+sub-010169,1,20-25,right,Gymnasium,,,,smoker?,,,,,,,,,,,,
+sub-010026,2,60-65,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,,,4.0,25,No,Yes
+sub-010027,2,20-25,right,Gymnasium,negative,0.0,,smoker,3.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,5.0,,,7.0,28,No,No
+sub-010134,1,20-25,ambidextrous,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,3.0,,,12.0,24,unknown,
+sub-010028,1,25-30,left,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,1.0,,,0.0,0,No,Yes
+sub-010029,1,30-35,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,7.0,,,3.0,10,unknown,
+sub-010030,2,20-25,right,Gymnasium,negative,0.0,,occasional smoker,2.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,,,4.0,4,No,Yes
+sub-010150,1,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,past Major Depressive Episode,"#CODE:296.26  #DESC:Major Depressive Disorder, Single Episode, In Full Remission  #SPEC: past",,,3.0,,,3.0,14,No,Yes
+sub-010032,1,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,,,7.0,20,No,Yes
+sub-010031,1,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,,,3.0,11,No,Yes
+sub-010321,1,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,,,,4.0,12,No,No
+sub-010033,1,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,2.0,,,9.0,24,No,Yes
+sub-010020,2,20-25,right,Gymnasium,negative,0.0,,occasional smoker,2.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,8.0,,,16.0,34,No,No
+sub-010170,2,25-30,right,Realschule,positive (THC),1.0,THC,smoker,3.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,7.0,,,6.0,5,No,Yes
+sub-010110,2,25-30,right,Gymnasium,,,,non-smoker,1.0,,,,,,,,,,,
+sub-010183,2,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,,,9.0,40,No,No
+sub-010035,1,25-30,left,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,,,4.0,8,No,No
+sub-010197,1,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,3.0,,,5.0,14,No,No
+sub-010202,2,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,,,5.0,45,No,Yes
+sub-010034,2,25-30,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,,,9.0,25,No,Yes
+sub-010199,2,60-65,right,Gymnasium,negative,0.0,,non-smoker,1.0,current alcohol abuse & addiction,#CODE:303.90  #DESC:Alcohol addiction #SPEC:,,,1.0,,,14.0,130,No,No
+sub-010040,1,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,2.0,,,4.0,1,No,Yes
+sub-010039,2,70-75,right,Gymansium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,,,2.0,6,No,Yes
+sub-010006,1,65-70,ambidextrous,Realschule,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,,,2.0,5,No,Yes
+sub-010012,1,60-65,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,,,0.0,0,No,Yes
+sub-010219,1,70-75,right,Realschule,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,2.0,,,2.0,10,No,No
+sub-010041,2,70-75,left,Hauptschule,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,1.0,,,4.0,29,No,Yes
+sub-010222,1,65-70,right,Realschule,negative,0.0,,occasional smoker,2.0,none ,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC: ,,subclinical ocd symptoms ,11.0,,,3.0,12,Yes,No
+sub-010002,1,65-70,right,Realschule,negative,0.0,,smoker,3.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,,,2.0,0,Yes,No
+sub-010004,1,65-70,right,Realschule,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,2.0,,,1.0,0,No,Yes
+sub-010044,1,65-70,right,Realschule,negative,0.0,,non-smoker,1.0,past Major Depressive Episode,"#CODE:296.30  #DESC:Major Depressive Disorder, Recurrent Episode  #SPEC: current",,inward treatment for MDE+5years of psychotherapy,0.0,,,2.0,16,No,Yes
+sub-010037,1,65-70,right,Realschule,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,,,1.0,1,unknown,No
+sub-010223,1,70-75,right,Realschule,positive (BZO),1.0,BZO,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,,,0.0,0,No,Yes
+sub-010043,1,60-65,right,Gymnasium,negative,0.0,,non-smoker,1.0,current specific phobia,#CODE:300.29 #DESC:Specific phobia #SPEC: current,,,2.0,,,2.0,7,No,Yes
+sub-010045,1,65-70,right,Realschule,negative,0.0,,non-smoker,1.0,Z91.8 past suicide attempt,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,2.0,,,4.0,18,unknown,Yes
+sub-010047,1,75-80,right,Hauptschule,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,1.0,,,4.0,12,No,Yes
+sub-010007,1,65-70,right,Realschule,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,9.0,,,0.0,0,No,No
+sub-010046,2,65-70,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,1.0,,,4.0,14,No,Yes
+sub-010048,1,65-70,left,Realschule,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,,,2.0,6,No,Yes
+sub-010049,1,70-75,right,Hauptschule,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,1.0,,,2.0,1,No,Yes
+sub-010234,1,70-75,right,Hauptschule,negative,0.0,,non-smoker,1.0,specific phobia,#CODE:300.29 #DESC:Specific phobia #SPEC: current,,,5.0,,,2.0,2,No,Yes
+sub-010059,2,75-80,right,Gymnasium,positive (BZO),1.0,BZO,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,1.0,0.0,0.0,3.0,28,No,Yes
+sub-010236,2,30-35,right,Gymnasium,negative,0.0,,occasional smoker,2.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,6.0,4.0,2.0,11.0,18,No,No
+sub-010056,2,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,subclinical ocd symptoms ,0.0,3.0,0.0,5.0,9,No,Yes
+sub-010062,1,25-30,right,Gymnasium,negative,0.0,,occasional smoker,2.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,4.0,3.0,1.0,3.0,5,No,Yes
+sub-010063,2,20-25,right,Gymnasium,negative,0.0,,smoker,3.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,past subclinical MDE,4.0,14.0,0.0,4.0,12.5,No,Yes
+sub-010060,2,30-35,right,Gymnasium,negative,0.0,,non-smoker,1.0,past Major Depressive Episode,"#CODE:296.26  #DESC:Major Depressive Disorder, Single Episode, In Full Remission  #SPEC: past",,past subclinical dperession,0.0,7.0,1.0,7.0,29.5,No,No
+sub-010051,2,65-70,right,Realschule,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,0.0,0.0,1.0,4,unknown,Yes
+sub-010050,1,60-65,right,Realschule,negative,0.0,,non-smoker,1.0,past Major Depressive Episode,"#CODE:296.26  #DESC:Major Depressive Disorder, Single Episode, In Full Remission  #SPEC: past",,Past antidepressant medication,4.0,0.0,0.0,0.0,0,No,Yes
+sub-010042,1,30-35,right,Gymnasium,positive (THC),1.0,,smoker,3.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,regulary cannabis consumption,2.0,3.0,2.0,4.0,6,No,Yes
+sub-010068,1,25-30,right,Realschule,positive (THC),1.0,,smoker,3.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,suspected diagnois: alcohol addiction,1.0,5.0,0.0,5.0,10,unknown,No
+sub-010070,2,20-25,right,Realschule,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,1.0,0.0,0.0,3.0,4.5,No,Yes
+sub-010238,2,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,Past subclinical social phobia,3.0,11.0,0.0,7.0,15,No,No
+sub-010207,2,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,2.0,0.0,7.0,8.5,No,Yes
+sub-010069,2,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,9.0,0.0,0.0,0,No,No
+sub-010073,2,20-25,right,Gymnasium,positive (THC),1.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,regulary cannabis &MDMA consumption during time of study,9.0,15.0,2.0,8.0,23,No,Yes
+sub-010075,1,20-25,right,Gymansium,Positive (THC + BUP),1.0,,smoker,3.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,cannabis consumption 1 day before study participation  (amphemtamine consumption from time to time),0.0,1.0,1.0,,28,No,Yes
+sub-010076,1,25-30,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,9.0,16.0,0.0,3.0,2,No,Yes
+sub-010065,2,20-25,left,Gymnasium,negative,0.0,,occasional smoker,2.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,0.0,0.0,4.0,2,No,Yes
+sub-010077,1,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,0.0,0.0,4.0,2,No,Yes
+sub-010061,2,25-30,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,4.0,6.0,2.0,11.0,53.5,Yes (9),No
+sub-010074,2,30-35,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,cannabis consumption every 2 months,1.0,1.0,1.0,7.0,"36,5",No,Yes
+sub-010078,1,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,1.0,1.0,8.0,26,Yes(1),No
+sub-010052,2,25-30,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,0.0,0.0,3.0,4,No,No
+sub-010071,2,25-30,right,Gymnasium,negative,0.0,,occasional smoker,2.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,"cannabis consumption 5 weeks ago, in general 2times/year",0.0,6.0,0.0,8.0,27.5,No,No
+sub-010080,1,30-35,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,regulary cannabis consumption,1.0,3.0,0.0,6.0,20.5,Yes (6),Yes
+sub-010067,2,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,14.0,27.0,2.0,0.0,2.5,Yes (1),Yes
+sub-010064,1,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,past Major Depressive Episode,"#CODE:296.26  #DESC:Major Depressive Disorder, Single Episode, In Full Remission  #SPEC: past",,,2.0,3.0,1.0,5.0,12,No,No
+sub-010072,2,25-30,right,Gymnasium,negative,0.0,,occasional smoker,2.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,1.0,1.0,0.0,5.0,23,Yes (9),Yes
+sub-010081,2,60-65,right,Realschule,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,subclinical alcohol abuse& specific phobia,5.0,2.0,0.0,5.0,42,No,Yes
+sub-010079,1,25-30,left,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,2.0,2.0,0.0,1.0,0,No,No
+sub-010240,2,25-30,right,Gymnasium,positive (THC),1.0,THC,smoker,3.0,current cannabis addiction,#CODE:304.30  #DESC:No Diagnosis or Condition on Axis I  #SPEC: current,,,1.0,0.0,0.0,7.0,15,No,No
+sub-010083,1,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,8.0,14.0,1.0,4.0,30,No,Yes
+sub-010084,1,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,1.0,0.0,1.0,1,No,Yes
+sub-010053,2,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,"has tried out cannabis 2 times, last time 3 years ago",3.0,4.0,1.0,8.0,27,No,Yes
+sub-010237,2,30-35,right,Gymnasium,,,,non-smoker,1.0,,,,,,,,,,,
+sub-010085,2,70-75,right,Gymnasium,positive (BZO) ,1.0,BZO,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,1.0,0.0,0.0,0.0,0,No,Yes
+sub-010066,2,25-30,right,Gymnasium,negative,0.0,,smoker,3.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,8.0,2.0,13.0,72,No,No
+sub-010086,1,65-70,ambedextor ,Realschule,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,1.0,4.0,0.0,3.0,6,No,No
+sub-010235,1,70-75,right,Gymnasium,,,,non-smoker,1.0,,,,,,,,,,,
+sub-010089,2,60-65,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,2.0,8.0,0.0,4.0,38,Yes (9),Yes
+sub-010087,1,75-80,right,Hauptschule,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,2.0,0.0,3.0,41,No,Yes
+sub-010242,1,60-65,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,3.0,3.0,0.0,2.0,5,No,Yes
+sub-010038,1,25-30,ambidextrous,Gymnasium,negative,0.0,,occasional smoker,2.0,current Binge Eating Disorder F50.9,#CODE:307.50  #DESC:Binge eating disorder #SPEC:,,,4.0,3.0,0.0,4.0,21,No,Yes
+sub-010246,2,60-65,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,1.0,0.0,0.0,4.0,45,Yes (9),Yes
+sub-010243,2,75-80,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,3.0,0.0,4.0,42,No,Yes
+sub-010090,1,65-70,right,Realschule,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,subclinical alcohol abuse/assiction,11.0,7.0,0.0,4.0,9.5,Yes ( 3 & 7),No
+sub-010247,1,70-75,right,Realschule,negative,0.0,,non-smoker,1.0,past Major Depressive Episode,"#CODE:296.26  #DESC:Major Depressive Disorder, Single Episode, In Full Remission  #SPEC: past",,MDE 12 years ago,3.0,2.0,0.0,2.0,4,No,Yes
+sub-010248,1,65-70,right,Gymnasium,negative,0.0,,non-smoker,1.0,past bipolar disorder II,#CODE:296.89  #DESC: Bipolar II Disorder #SPEC: past,,,1.0,1.0,0.0,3.0,35.5,No,Yes
+sub-010244,1,70-75,right,Gymnasium,negative,0.0,,non-smoker,1.0,past Major Depressive Episode,"#CODE:296.26  #DESC:Major Depressive Disorder, Single Episode, In Full Remission  #SPEC: past",,,1.0,5.0,0.0,1.0,8,No,No
+sub-010250,1,65-70,right,Gymnasium,negative,0.0,,non-smoker,1.0,past Major Depressive Episode,"#CODE:296.26  #DESC:Major Depressive Disorder, Single Episode, In Full Remission  #SPEC: past",,,3.0,0.0,0.0,4.0,10,No,Yes
+sub-010088,2,65-70,right,Realschule,negative,0.0,,non-smoker,1.0,past alcohol abuse,#CODE:305.00  #DESC:Alcohol abuse  #SPEC: current,,,3.0,1.0,0.0,9.0,7,No,Yes
+sub-010251,2,70-75,right,Realschule,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,3.0,0.0,2.0,7,No,Yes
+sub-010091,2,55-60,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,1.0,2.0,0.0,3.0,23,No,Yes
+sub-010245,2,70-75,right,Realschule,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,3.0,0.0,0.0,4.0,"47,5",No,Yes
+sub-010249,1,70-75,right,Gymnasium,negative,0.0,,occasional smoker,2.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,1.0,0.0,0.0,4.0,33,No,Yes
+sub-010092,2,70-75,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,1.0,0.0,0.0,0.0,0,Yes (3),Yes
+sub-010241,2,20-25,right,Gymnasium,negative,0.0,,smoker,3.0,"current cannabis addiction, alcohol abuse",#CODE:304.30  #DESC:Cannabis dependence  #SPEC: current,#CODE:305.00  #DESC:Alcohol abuse  #SPEC: current,last cannabis consumption 4 days before study participation,4.0,6.0,4.0,11.0,22.5,No,No
+sub-010094,1,30-35,right,Gymnasium,negative,0.0,,occasional smoker,2.0,"past Major Depressive Episode, past agora phobia","#CODE:296.26  #DESC:Major Depressive Disorder, Single Episode, In Full Remission  #SPEC: past",#CODE:300.21  #DESC:panic disorder with agoraphobia  #SPEC: past,,2.0,7.0,2.0,4.0,15,No,Yes
+sub-010252,2,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,subclinical alcohol addiction,7.0,4.0,2.0,9.0,44,No,Yes
+sub-010126,1,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,0.0,0.0,3.0,7,No,No
+sub-010254,2,65-70,right,Realschule,negative,0.0,,occasional smoker,2.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,0.0,0.0,0.0,0,No,Yes
+sub-010093,1,70-75,right,Realschule,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,,1.0,0.0,0.0,11.5,No,No
+sub-010256,1,25-30,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,10.0,3.0,0.0,4.0,16,No,Yes
+sub-010137,1,25-30,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,1.0,1.0,0.0,4.0,7,No,No
+sub-010136,2,25-30,right,Realschule,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,2.0,0.0,2.0,0,Yes (2 & 9),No
+sub-010142,2,35-40,right,Gymnasium,negative,0.0,,occasional smoker,2.0,"current alcohol abuse, panic disorder",#CODE:304.30  #DESC:Cannabis dependence  #SPEC: current,#CODE:305.00  #DESC:Alcohol abuse  #SPEC: current,,5.0,8.0,0.0,19.0,27,Yes (9),No
+sub-010262,2,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,past OCD,#CODE:300.3  #DESC:Obsessive-Compulsive Disorder  #SPEC:,,,2.0,1.0,0.0,3.0,7,Yes,Yes
+sub-010264,2,25-30,right,Gymnasium,negative,0.0,,non-smoker,1.0,past alcohol abuse and cannabis addiction,#CODE:304.30  #DESC:Cannabis dependence  #SPEC: past,#CODE:305.00  #DESC:Alcohol abuse  #SPEC: past,,1.0,3.0,1.0,5.0,6,No,Yes
+sub-010036,1,30-35,right,Gymnasium,possitive (MOP) ,1.0,MOP,smoker,3.0,current Alcohol abuse,#CODE:305.00  #DESC:Alcohol abuse  #SPEC: current,,suspected diagnosis: pain disorder (head pain),2.0,1.0,2.0,3.0,8,No,No
+sub-010239,2,60-65,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,2.0,8.0,0.0,5.0,26,No,Yes
+sub-010138,2,25-30,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,1.0,3.0,0.0,6.0,9,No,Yes
+sub-010148,2,60-65,right,Gymnasium,negative,0.0,,non-smoker,1.0,past Dysthymia,"#CODE:300.4  #DESC:Dysthymia, In full remission  #SPEC:, past",,,1.0,2.0,0.0,1.0,0,No,Yes
+sub-010152,1,60-65,right,Gymnasium,negative,0.0,,smoker,3.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,Suspected diagnosis: MDE during menopause,1.0,0.0,0.0,1.0,0,No,No
+sub-010146,1,65-70,right,Realschule,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,2.0,1.0,0.0,1.0,6,No,Yes
+sub-010141,2,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,alcohol abuse,#CODE:305.00  #DESC:Alcohol abuse  #SPEC: current,,,1.0,6.0,0.0,15.0,52,No,No
+sub-010257,2,60-65,right,Realschule,negative,0.0,,smoker,3.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,0.0,2.0,7.0,33,No,Yes
+sub-010265,2,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,past Major Depressive Episode,"#CODE:296.26  #DESC:Major Depressive Disorder, Single Episode, In Full Remission  #SPEC: past",,currently: sublicnical depressive mood,7.0,33.0,1.0,5.0,28,Yes,Yes
+sub-010258,1,60-65,right,Realschule,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,2.0,0.0,0.0,5.0,18,No,Yes
+sub-010260,2,20-25,left,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,1.0,0.0,2.0,6,No,Yes
+sub-010263,2,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,past alcohol addiction,#CODE:303.90  #DESC: Alcohol addiction  #SPEC:,,suspected diagnosis: hypomania,4.0,2.0,0.0,1.0,1,No,No
+sub-010271,2,20-25,left,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,3.0,5.0,1.0,4.0,12,No,Yes
+sub-010269,2,20-25,right,Gymnasium,negative,0.0,,occasional smoker,2.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,1.0,0.0,0.0,5.0,33,Yes,No
+sub-010267,2,70-75,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,4.0,2.0,0.0,2.0,18,No,Yes
+sub-010273,2,25-30,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,high alcohol consumption without fulfillment of diagnosis ( suspected diagnosis Z73),10.0,11.0,2.0,19.0,"62,5",No,No
+sub-010163,1,25-30,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,6.0,1.0,0.0,4.0,"4,5",No,Yes
+sub-010165,1,20-25,right,Gymnasium,negative,0.0,,occasional smoker,2.0,past specific phobia,#CODE:300.29 #DESC:Specific phobia #SPEC: current,,,7.0,4.0,1.0,12.0,28,No,No
+sub-010162,2,20-25,left,Gymnasium,negative,0.0,,smoker,3.0,T74.1 physical abuse in childhood,#CODE:995.5  #DESC: physical abuse in childhood #SPEC: current,,,1.0,1.0,0.0,5.0,"16,5",Yes,No
+sub-010270,1,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,1.0,1.0,0.0,6.0,0,Yes,Yes
+sub-010268,2,65-70,right,Gymnasium,negative,0.0,,occasional smoker,2.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,2.0,4.0,0.0,3.0,"16,5",No,Yes
+sub-010155,1,20-25,left,Gymnasium,negative,0.0,,occasional smoker,2.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,10.0,32.0,1.0,6.0,,No,No
+sub-010164,1,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,Suspected N94.3premenstrual syndrom,5.0,9.0,0.0,6.0,"11,5",No,Yes
+sub-010272,2,65-70,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,0.0,0.0,2.0,9,No,Yes
+sub-010261,2,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,past social phobia,#CODE:300.23  #DESC:Social Phobia  #SPEC:,,,1.0,0.0,1.0,3.0,"32,5",No,Yes
+sub-010266,1,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,6.0,3.0,0.0,4.0,6,Yes,Yes
+sub-010274,1,30-35,right,Gymnasium,negative,0.0,,occasional smoker,2.0,"current agora phobia, past specific phobia",#CODE:300.22  #DESC:Agoraphobia without panic disorder  #SPEC:,#CODE:300.29 #DESC:Specific phobia #SPEC: past,,3.0,10.0,1.0,2.0,17,No,No
+sub-010166,1,20-25,right,Gymnasium,negative,0.0,,smoker,3.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,1.0,15.0,1.0,5.0,17,No,Yes
+sub-010255,2,55-60,right,Gymnasium,negative,0.0,,non-smoker,1.0,past panic disorder,#CODE:300.01  #DESC:Panic disorder  #SPEC:,,,3.0,2.0,0.0,7.0,21,unknown,Yes
+sub-010275,1,55-60,right,Realschule,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,4.0,4.0,0.0,10.0,13,No,Yes
+sub-010168,1,25-30,right,Gymnasium,negative,0.0,,occasional smoker,2.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,4.0,2.0,0.0,3.0,"8,5",No,No
+sub-010157,1,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,3.0,3.0,0.0,4.0,4,No,Yes
+sub-010176,2,25-30,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,3.0,2.0,0.0,0.0,0,No,Yes
+sub-010276,2,60-65,right,Realschule,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,Subclinical sleeping problems,5.0,5.0,2.0,4.0,"7,5",unknown,Yes
+sub-010279,1,55-60,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,5.0,1.0,0.0,2.0,18,No,Yes
+sub-010280,1,65-70,right,Realschule,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,subclinical specific phobia,5.0,0.0,0.0,2.0,"1,5",Yes,No
+sub-010281,2,70-75,right,Hauptschule,,,,non-smoker,1.0,,,,,,,,,,,
+sub-010278,2,60-65,right,Hauptschule,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,1.0,0.0,5.0,10,Yes,Yes
+sub-010277,1,70-75,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,regulary and long-term cannabis consumption,1.0,3.0,0.0,0.0,0,No,No
+sub-010282,2,70-75,right,Gymnasium,negative,0.0,,non-smoker,1.0,past alcohol addiction,#CODE:303.90  #DESC: Alcohol addiction  #SPEC: past,,"Past Alcohol addiction with rehab&detoxification, has started drinking again",0.0,0.0,0.0,9.0,154,No,Yes
+sub-010283,2,70-75,right,Realschule,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,1.0,1.0,0.0,6.0,0,No,Yes
+sub-010284,2,70-75,right,Realschule,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,1.0,0.0,2.0,"3,5",No,Yes
+sub-010285,2,65-70,right,Realschule,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,1.0,1.0,0.0,4.0,36,No,Yes
+sub-010287,2,65-70,right,Realschule,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,6.0,5.0,0.0,3.0,15,No,Yes
+sub-010288,2,70-75,right,Gymnasium,negative,0.0,,non-smoker,1.0,"current R44.3 hallucinations (olfactorial), daily; past OCD",#CODE:780.1 #DESC:Hallucinations (olfactory)  #SPEC: current,#CODE:V300.3  #DESC:Obsessive compulsive disorder #SPEC:past,,5.0,6.0,0.0,5.0,48,No,Yes
+sub-010290,2,60-65,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,1.0,0.0,0.0,2.0,5,No,Yes
+sub-010291,1,65-70,right,Gymnasium,positive (BZO),1.0,BZO,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,suspected diagnosis: chronic pain (back pain),4.0,0.0,0.0,2.0,5,No,Yes
+sub-010289,2,60-65,right,Realschule,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,4.0,0.0,1.0,3.0,22,No,Yes
+sub-010286,2,65-70,right,Realschule,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,1.0,0.0,2.0,9,No,Yes
+sub-010191,2,25-30,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,0.0,0.0,3.0,"1,5",No,Yes
+sub-010293,2,20-25,right,Gymnasium,,,,non-smoker,1.0,,,,,,,,,,,
+sub-010192,2,25-30,right,Realschule,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,2.0,0.0,0.0,1.0,0,unknown,Yes
+sub-010292,2,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,past cannabis addicition,#CODE:304.30  #DESC:Cannabis dependence  #SPEC: past,,subclinical alcohol addiction,5.0,3.0,0.0,5.0,1,No,Yes
+sub-010193,2,25-30,right,Realschule,negative,0.0,,non-smoker,1.0,past alcohol addiction,#CODE:303.90  #DESC: Alcohol addiction  #SPEC: past,,subclinical alcohol addiction,2.0,3.0,2.0,20.0,"43,5",No,No
+sub-010296,2,25-30,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,10.0,1.0,9.0,"37,5",No,Yes
+sub-010194,2,25-30,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,2.0,6.0,2.0,7.0,"9,5",No,Yes
+sub-010195,2,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,2.0,1.0,0.0,6.0,27,No,Yes
+sub-010294,2,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,past sublclinical panic disorder,2.0,1.0,0.0,4.0,0,No,Yes
+sub-010297,2,25-30,left,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,4.0,0.0,0.0,5.0,"27,5",unknown,Yes
+sub-010196,2,25-30,left,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,2.0,3.0,0.0,8.0,10,No,Yes
+sub-010298,2,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,1.0,0.0,0.0,6.0,1.5,No,Yes
+sub-010200,2,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,2.0,6.0,1.0,4.0,27,No,Yes
+sub-010299,2,20-25,left,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,3.0,4.0,0.0,5.0,10,Yes,Yes
+sub-010201,2,25-30,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,2.0,2.0,2.0,7.0,"35,5",Yes,Yes
+sub-010295,2,25-30,right,Gymnasium,negative,0.0,,non-smoker,1.0,past F95.1 Tic disorder,#CODE:307.20  #DESC:Tic Disorder  #SPEC: current,,,1.0,1.0,0.0,6.0,"20,5",No,Yes
+sub-010300,2,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,"multiple sub-clinical symptoms: dysthymia, social phobia,ocd, substance abuse ",4.0,9.0,2.0,21.0,133,Yes,Yes
+sub-010213,2,25-30,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,3.0,9.0,0.0,0.0,0,No,No
+sub-010204,2,25-30,left,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,2.0,0.0,8.0,24,No,No
+sub-010214,2,25-30,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,2.0,5.0,0.0,6.0,14,No,Yes
+sub-010301,2,25-30,right,Gymnasium,negative,0.0,,non-smoker,1.0,current OCD,#CODE:V300.3  #DESC:Obsessive compulsive disorder #SPEC:current,,suspected diagnosis: chronic pain,2.0,4.0,2.0,6.0,30,Yes,Yes
+sub-010215,2,25-30,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,2.0,0.0,4.0,19.5,Yes,Yes
+sub-010210,2,25-30,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,single panic attac int the past,6.0,4.0,1.0,4.0,2,No,Yes
+sub-010303,2,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,2.0,0.0,0.0,2.0,5,No,Yes
+sub-010218,2,25-30,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,subclinical ocd symptoms ,3.0,6.0,0.0,2.0,12,No,No
+sub-010203,2,25-30,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,1.0,0.0,0.0,3.0,"3,5",No,Yes
+sub-010306,2,25-30,left,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,1.0,0.0,1.0,3.0,15,No,Yes
+sub-010319,2,20-25,left,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,2.0,1.0,6.0,"46,5",No,No
+sub-010216,2,25-30,right,Gymnasium,negative,0.0,,non-smoker,1.0,past alcohol abuse,#CODE:305.00   #DESC: Alcohol abuse #SPEC:,,,6.0,3.0,0.0,3.0,"17,5",No,Yes
+sub-010305,2,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,1.0,4.0,0.0,7.0,"7,5",No,Yes
+sub-010220,2,30-35,right,Realschule,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,3.0,0.0,0.0,6.0,46,No,Yes
+sub-010320,2,20-25,right,Gymnasium,,,,non-smoker,1.0,,,,,,,,,,,
+sub-010308,2,25-30,right,"Somato meeting: Tuesday, 19.12.17 at 13:00 in A110",negative,0.0,,non-smoker,1.0,past bipolar II disorder,#CODE:296.89  #DESC: Bipolar II Disorder #SPEC: current,,,1.0,0.0,1.0,12.0,37,Yes,No
+sub-010307,2,25-30,right,Gymnasium,negative,0.0,,non-smoker,1.0,none ,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC: ,,suspected diagnosis: F45.8 psychosomatic dermatitis,2.0,7.0,0.0,3.0,"3,5",No,Yes
+sub-010302,2,25-30,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,2.0,6.0,2.0,10.0,"52,5",No,Yes
+sub-010309,2,25-30,left,none (Hauptschule not finished),negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,Crystal Meth consumption about 20times in three years (last time 2012),3.0,6.0,0.0,4.0,"2,5",Yes,No
+sub-010304,2,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,0.0,0.0,4.0,13,No,No
+sub-010224,2,25-30,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,3.0,4.0,0.0,0.0,0,Yes,No
+sub-010225,2,20-25,right,Realschule,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,4.0,2.0,0.0,0.0,0,No,Yes
+sub-010310,2,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,4.0,7.0,1.0,3.0,"16,5",No,Yes
+sub-010312,2,20-25,left,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,1.0,0.0,3.0,9,Yes,Yes
+sub-010253,2,25-30,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,1.0,0.0,0.0,4.0,44,No,Yes
+sub-010314,2,25-30,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,3.0,10.0,0.0,4.0,"6,75",Yes,Yes
+sub-010226,2,25-30,right,Gymansium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,2.0,4.0,1.0,3.0,3,No,No
+sub-010311,2,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,past social phobia,#CODE:300.23  #DESC:Social Phobia  #SPEC: past,,,0.0,1.0,0.0,3.0,3,No,No
+sub-010228,2,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,5.0,4.0,1.0,8.0,"59,5",No,No
+sub-010315,2,20-25,left,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,0.0,0.0,3.0,6,Yes,Yes
+sub-010317,2,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,"past subclinical OCD, past cannabis consumption",1.0,0.0,1.0,7.0,"34,5",no,no
+sub-010229,2,30-35,right,Gymansium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,1.0,0.0,3.0,"13,5",No,Yes
+sub-010227,2,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,4.0,0.0,1.0,2.0,4,No,Yes
+sub-010316,2,30-35,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,4.0,1.0,0.0,3.0,26,No,No
+sub-010230,2,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,3.0,1.0,0.0,6.0,18,Yes,Yes
+sub-010005,2,25-30,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,0.0,4.0,0.0,1.0,1,No,No
+sub-010231,2,20-25,left,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,"suspected diagnosis: panic disorder, alcohol abuse",1.0,4.0,1.0,5.0,18,no,no
+sub-010232,2,25-30,left,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,5.0,2.0,1.0,3.0,29,no,yes
+sub-010233,2,25-30,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:300.29 #DESC: Mild Specific phobia #SPEC: current,,subclinical specific phobia,3.0,3.0,1.0,3.0,"16,5",no,yes
+sub-010318,2,20-25,right,Gymnasium,negative,0.0,,non-smoker,1.0,none,#CODE:V71.09  #DESC:No Diagnosis or Condition on Axis I  #SPEC:,,,2.0,8.0,0.0,2.0,12,yes,yes
