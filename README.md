@@ -1,6 +1,6 @@
 # Codebase of the WOCCA algorithm
 
-This codebase contains the implementation of the WOCCA algorithm proposed in the manuscript "Spatiotemporal Decomposition of Whole-Brain Alpha Traveling Waves", supplementary materials of this manuscript, and notebooks for reproduction of EEG dataset analysis, written in Python language with Jupyter Notebook.
+This codebase contains the implementation of the WOCCA algorithm proposed in the manuscript "[Spatiotemporal Decomposition of Whole-Brain Alpha Traveling Waves](doi.org/10.1101/2024.08.23.609472)", supplementary materials of this manuscript, and notebooks for reproduction of EEG dataset analysis, written in Python language with Jupyter Notebook.
 
 ## Quick Start
 For a quick start on how to use WOCCA, refer to `grid_samples.py` for examples on synthetic grid data. For reproduction of analysis and creation of figures in the manuscript, follow the instructions in the `data` directory to set up the EEG datasets, before referring to the Jupyter Notebooks.
